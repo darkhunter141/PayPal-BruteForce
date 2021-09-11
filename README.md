@@ -1,13 +1,15 @@
 # Paypal Combolist Cheaker
 
 Brute Force paypal :
-• Url: https://www.paypal.com
-• Api: ☑️
-• Proxy: No ✖️
-• captcha: No ✖️
-• Supports all devices: ☑️
-• Combo Type: email:pass
-• saved in the Hacked-paypal.txt
+<li> Url: https://www.paypal.com
+<li> Api: ☑️
+<li>Proxy: No ✖️
+<li> captcha: No ✖️
+<li> Supports all devices: ☑️
+<li>Combo Type: email:pass
+<li> saved in the Hacked-paypal.txt
+  
+  
 # 100% Legit
 
 # Note
