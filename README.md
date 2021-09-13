@@ -7,6 +7,7 @@ Brute Force paypal :
 <li> captcha: No ✖️
 <li> Supports all devices: ☑️
 <li>Combo Type: email:pass
+<li> Combo List Collection : https://github.com/darkhunter141/Combo-List
 <li> saved in the Hacked-paypal.txt
   
   
